@@ -46,3 +46,7 @@ Store/<br/>
 ├─ FetchStatus
 └─ ItemsSlice.jsx
 
+<h1>🖼️ Screenshots</h1>
+[![Home Page](screenshots/homepage.png)](https://github.com/abdu4751/myntra-react-clone/blob/b924c75fe46f683c38e4b9dd206c878a5469decc/myntra-screen-shot.png)
+
+
