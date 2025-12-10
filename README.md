@@ -22,3 +22,25 @@ Redux Toolkit – State management<br/>
 CSS Grid & Flexbox – Responsive layout<br/>
 Vite – Project bundler<br/>
 Backend Server – Custom server to fetch product data<br/>
+
+<h1>📁 Folder Structure</h1>
+Components/
+├─ AddToCartItems.jsx
+├─ BagSummary.jsx
+├─ FetchItems.jsx
+├─ Footer.jsx
+├─ Header.jsx
+├─ LoadingSpinner.jsx
+├─ Product.jsx
+└─ ToggleBar.jsx
+
+Routes/
+├─ App.jsx
+├─ HomePage.jsx
+└─ ItemBags.jsx
+
+Store/
+├─ ReduxStore.jsx
+├─ BagSlice
+├─ FetchStatus
+└─ ItemsSlice.jsx
