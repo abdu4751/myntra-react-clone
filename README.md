@@ -24,6 +24,7 @@ Vite – Project bundler<br/>
 Backend Server – Custom server to fetch product data<br/>
 
 <h1>📁 Folder Structure</h1>
+
 Components/
 ├─ AddToCartItems.jsx
 ├─ BagSummary.jsx
@@ -34,13 +35,14 @@ Components/
 ├─ Product.jsx
 └─ ToggleBar.jsx
 
-Routes/
+Routes/ <br/>
 ├─ App.jsx
 ├─ HomePage.jsx
 └─ ItemBags.jsx
 
-Store/
+Store/<br/>
 ├─ ReduxStore.jsx
 ├─ BagSlice
 ├─ FetchStatus
 └─ ItemsSlice.jsx
+
