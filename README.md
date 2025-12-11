@@ -20,12 +20,11 @@ React.js – Frontend library<br/>
 React Router – For page routing<br/>
 Redux Toolkit – State management<br/>
 CSS Grid & Flexbox – Responsive layout<br/>
-Vite – Project bundler<br/>
 Backend Server – Custom server to fetch product data<br/>
 
 <h1>📁 Folder Structure</h1>
 
-Components/
+<b>Components/</b>
 ├─ AddToCartItems.jsx
 ├─ BagSummary.jsx
 ├─ FetchItems.jsx
@@ -35,12 +34,12 @@ Components/
 ├─ Product.jsx
 └─ ToggleBar.jsx
 
-Routes/ <br/>
+<b>Routes/</b> <br/>
 ├─ App.jsx
 ├─ HomePage.jsx
 └─ ItemBags.jsx
 
-Store/<br/>
+<b>Store/</b><br/>
 ├─ ReduxStore.jsx
 ├─ BagSlice
 ├─ FetchStatus
