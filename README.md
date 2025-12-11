@@ -47,7 +47,7 @@ Store/<br/>
 └─ ItemsSlice.jsx
 
 <h1>🖼️ Screenshots</h1>
-![image alt](https://github.com/abdu4751/myntra-react-clone/blob/1d8445f40c2bc27de5c4e77716147abbe255899f/myntra%20clone%20screenshot.png)
+![image alt](https://github.com/abdu4751/myntra-react-clone/blob/fb68df997e17532e346f82154fd4e74813dd27bd/myntra%20clone%20screenshot.png)
 
 
 
